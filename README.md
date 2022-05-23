@@ -24,6 +24,8 @@
 
 * Used MVVM architecture complonent- **Data binding** to avoid NullPointerException also to avoid more boilerplate code(eliminates findVieByID())
 
+* **Hilt** used for dependency injection.  
+
 * **Constraint layout** was used to create a flat view hierarchy and increase rendering performance.
 
 * Used **recyclerview** to show a scrollable list of schools.
