@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NYC High Schools Lists</string>
+    <string name="sort_by_sat_score">Sort by SAT score</string>
+    <string name="sort_by_school_name">Sort by school name</string>
+    <string name="sat_score">SAT Score:</string>
+    <string name="math_average">Math average</string>
+    <string name="reading_average">Reading average</string>
+    <string name="writing_average">Writing average</string>
+    <string name="total_average">Total average</string>
+    <string name="total_test_tackers">Total test tackers</string>
+    <string name="requirements">Requirements:</string>
+    <string name="contact">Contact:</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+</resources>
