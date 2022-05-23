@@ -28,4 +28,10 @@
 
 * Used **recyclerview** to show a scrollable list of schools.
 
-!(https://drive.google.com/file/d/1RsES70qArSekyvC3oTbHVA9sRCofTsaQ/view?usp=sharing)
+### Demo:
+<img src="https://user-images.githubusercontent.com/28978071/169885303-87901ed6-858b-45fe-957b-3365366538fb.jpg" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/28978071/169885289-bb44cbb4-afff-425e-9fa0-2783536d5e01.jpg" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/28978071/169885268-061dd8ed-84b5-45bc-b7fd-2d2a183c8954.jpg" width="400" height="790">
+
+
+
