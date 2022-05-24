@@ -1,4 +1,4 @@
-# NYCHighSchoolsLists
+# NYCHighSchoolsList
 
 ### Project overview:
 * The app displays a list of schools with a total average SAT score.
@@ -10,7 +10,7 @@
 * Users can sort schools by school name or by total score
 
 ### Libraries used:
-* **Kotlin-Coroutine** was used to get school list and score details asynchronusly from network to make responsive UI.
+* **Kotlin-Coroutine** was used to obtain school list and score details asynchronously from the network in order to improve user experience and create responsive UI.
 
 * **Retrofit** was used to send a network request and receive a response.
 
